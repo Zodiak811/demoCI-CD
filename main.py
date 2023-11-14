@@ -1,1 +1,1 @@
-print("Hola mundo")
+pruniynt("Hola mundo")
