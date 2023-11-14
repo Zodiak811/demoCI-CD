@@ -13,6 +13,6 @@ jobs:
         run: python3 main.py
 
       - name: Crear imagen Docker
-        run: docker build -t Zodiak811/hola .
+        run: docker build -t zodiak811/hola .
       - name: Probar imagen
-        run: docker run Zodiak811/hola
+        run: docker run zodiak811/hola
